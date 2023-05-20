@@ -1,0 +1,154 @@
+Sentence,Label
+A more direct evidence is that Hsp70 facilitates viral RNA production in cell-free transcriptional assays.,hsp-viral_interactions
+"After ligand binding, TLRs dimerize and undergo a conformational change required for recruiting downstream signaling molecules, including the adaptor molecule myeloid differentiation primary-response protein 88 (MyD88), IL-1R-associated kinases (IRAKs), TGFβ-activated kinase (TAK1), TAK1-binding protein 1 (TAB1), TAB2 and TNF-receptor-associated factor 6 (TRAF6).",immunology
+"After treated with Hsp90 inhibitors, HSV polymerases is mislocalized from the nucleus to the cytoplasm and subsequently degraded in a proteasome-dependent manner.144,145 Similar to HSV, the nuclear translocation of DNA polymerase of EBV also requires Hsp90.146,147 During the polymerase transportation, the polymerase catalytic subunit BALF5 forms a complex with BMRF1 in the assistance of Hsp90β.’",hsp-viral_interactions
+Although Hsp70 inhibitors suppress RSV polymerase activity; it only disrupts viral gene expression but do not affect RNA polymerization.,hsp-viral_interactions
+"Among these strategies, HBV infection increases the population of CD4+CD25+ T regulatory cells (Tregs) which can produce an amount of IL-10 and TGF-β.",immunology
+Another mechanism that Hsp70 employs to support virus replication is to modulate nuclear import of polymerase or nuclear capsid.,hsp-viral_interactions
+"As described before, EBV is the causative regent of several tumors, including Burkitt’s lymphoma and Nasopharyngeal carcinoma (NPC).",viral_details
+"At the translation level, Hsp90 promotes the translation of conserved herpesvirus protein kinases (CHPKs), including herpes simplex virus type 1 and 2 (HSV-1, HSV-2), varicella-zoster virus (VZV), EBV, KSHV.",hsp-viral_interactions
+"believed that the stimulated RT activity is independent of Hsp90 ATPase activity reported that RT-ε interaction mediated by Hsp90 and its chaperone partner p23 is ATP-dependent.137,141 Lastly, another study showed that Hsp90 helps HBV RT priming rather than maintaining the HBV RT/ε RNA complex.142 This is controversial to Hu’s findings, i.e., Hsp90 function is required not only to establish but also to maintain the RT in a state for RNA binding.141 Grp94, another HSP90 family member, is shown a critical regulator in stabilizing and activating RT, allowing its preferential binding to the pregenomic RNA during HBV replication.",hsp-viral_interactions
+"Besides, DENV infection also elevates Hsp60 expression.",hsp-viral_interactions
+"Besides, Hsc70 interacts with the terminal non-coding regions of the EBOV genome.",hsp-viral_interactions
+"Besides, Hsp70 is also reported to regulate L protein, another MuV polymerase component.",hsp-viral_interactions
+"Besides, in HeLa cells infected by poliovirus or coxsackievirus B1, Hsp70 is detected to interact with the capsid precursor P1.",hsp-viral_interactions
+"Besides, the reactive oxygen species (ROS)-promoted HBV capsid assembly also requires an active form of Hsp90.",hsp-viral_interactions
+"Both AP-1 and NF-κB activate proinflammatory cytokine expression, including TNFα, IL-6, IL-1β, and a number of other cytokines and chemokines.",immunology
+"By using immunoprecipitation and mass spectrometry assays, it has been identified that the N protein interacts with Hsp70, NEF, BAG2, and the Hsp70 co-chaperone DNAJA2.",hsp-viral_interactions
+"CHPKs play important roles in multiple processes, including gene expression, viral DNA replication, capsid nuclear egress, and DNA damage responses.",viral_details
+"demonstrated that RT-ε interaction depends on Hsp90’s ATP hydrolysis activity.136 Two independent regions in the terminal protein (TP) and the RT domains of polymerase separately bind with Hsp90 at the N-Terminal and C-Terminal fragments, and both domains are essential for ribonucleoprotein (RNP) and protein priming.137,138 Although a model is established to show how Hsp90 bridges the two separate RT domains of polymerase together to enable the formation of an RNP complex with the HBV RNA;137 there are still some fundamental questions to be addressed.’",hsp-viral_interactions
+Disruption of the interaction by mutating the binding site potently inhibits the minigenome replication of EBOV.,hsp-viral_interactions
+"Downregulating Hsp72 leads to a decreased number of VRC in HCV-infected cells, while overexpression of Hsp72 raises the number of VRC.",hsp-viral_interactions
+"During DNA retroviral replication, Hsp90 mainly contributes to regulating and maintaining the reverse-transcriptase (RT) activity.’",hsp-viral_interactions
+"During influenza A infection, the amount of Hdj1 in p58IPK-Hdj1 complex decreases to an undetectable level.",virology
+"During morphogenesis of the double-stranded RNA Reovirus, Hsp70 contributes to the assembly of trimeric sigma 1 protein, which is responsible for the interaction with host cell receptor.",hsp-viral_interactions
+"During the viral protein expression and maturation, Hsp90 works as a classic chaperone to monitor the proper folding of viral proteins.’",hsp-viral_interactions
+"EBNA1 is critical for cellular transformation, tumorigenesis, and the maintenance of viral episomes.",viral_details
+Ectopic expression of RSV nucleocapsid protein (N protein) and phosphoprotein (P protein) are detected to interact with Hsp70 in 293T cells.,hsp-viral_interactions
+"Even though virus postpones apoptosis via Hsp60, the main function of Hsp60 is to refold proteins in mitochondria.",hsp-viral_interactions
+"Few studies show the function of Hsp60s in the life cycle of RNA virus; however, the function of Hsp60 in regulating host immunity has been widely studied.",hsp-viral_interactions
+"First, HSP70 family proteins facilitate the formation of virus replication complexes and/or maintain the stability of complex proteins.",hsp-function
+"Firstly, whether the Hsp90 chaperones or Hsp70 chaperones are essential for the RT- ε interaction.’",hsp-function
+"For example, during the Mumps virus (MuV) infection, the expression level of Hsp72 is increased.",hsp-viral_interactions
+"For example, Hsp72 participates in the VRC formation of HCV.",hsp-viral_interactions
+"Furthermore, Hsp60 also forms a complex with HBx and Hsp70 in the mitochondria.",hsp-viral_interactions
+"Furthermore, it is demonstrated that Hsp70 interacts with and regulates NC polymerase activity dependent on the Hsp70 ATP activity; because Hsp70 antibody significantly inhibits NC polymerase activity and supplementation of purified recombinant Hsp70 enhances both the basal and stress-induced NC polymerase activity.",hsp-viral_interactions
+HBV infection increases serum sHsp60 level and makes use of Hsp60 to activate CD4+CD25+ regulatory T via TLR2/MyD88/IL10 signaling.,hsp-viral_interactions
+HBV replication is markedly suppressed when Hsp60 is knocked down by specific siRNAs.,hsp-viral_interactions
+HCV accumulation and virion production are significantly suppressed when cells are treated with Hsp70 or Hsc70 inhibitors.,hsp-viral_interactions
+"Here, Hsp70 functions to maintain the stability of N protein and helps to facilitate VRC formation.",hsp-viral_interactions
+"Here, we focus on how HBV harnesses Hsp60 to evade host immune response.",hsp-viral_interactions
+"However, it has been shown that Hsp60 directly regulates RT activity before the RT-ε RNA complex formation.",hsp-viral_interactions
+"However, the detailed mechanism remains elusive.",hsp-viral_interactions
+"However, the mechanism of how Hsp60 enhances the apoptosis remains unclear during HBV infections.",hsp-viral_interactions
+"However, under certain conditions, viruses also utilize Hsp60 to evade host cell immune response.",hsp-viral_interactions
+Hsc70 enhances the IRES activity in EV-A71 infected cells.,hsp-viral_interactions
+Hsc70 interacts with 2A protease of EV-A71 to enhance EIF4G cleavage that impairs host cell cap-dependent translation but enhances viral IRES-mediated translation.,hsp-viral_interactions
+Hsc70 is associated with VRC by binding on the 3’ polyU/UC motif of HCV RNA genome.,hsp-viral_interactions
+Hsp60 binds on a small domain (residues 88–117) of HBx.,hsp-viral_interactions
+Hsp60 helps PB2 translocation from the cytosol into mitochondria.,hsp-viral_interactions
+Hsp60 helps to translocate NSP4 protein of Rotavirus into mitochondria from cytosol and induces apoptosis.,hsp-viral_interactions
+"Hsp60 is encapsidated into HIV particles,336 but we have no idea about its function.",hsp-viral_interactions
+Hsp60 is involved in both the innate and adaptive immune response.,immunology
+Hsp60 transiently interacts with RT to activate RT in an ATP-dependent manner.,hsp-viral_interactions
+Hsp70 chaperones are much more important for the RT–ε interaction.’,hsp-function
+Hsp70 cooperates with Hsp90 to regulate L protein levels.,hsp-viral_interactions
+HSP70 family proteins participate in viral replication by employing different mechanisms.,hsp-viral_interactions
+Hsp70 inhibitor VER155008 together with 17-AAG enhances L protein degradation.,hsp-viral_interactions
+Hsp70 is reported to assist some viruses’ assembly.,hsp-viral_interactions
+"Hsp72 physically interacts with several replication proteins of Flavivirus including NS5A, NS3, and NS5B (RdRp).",hsp-viral_interactions
+"Hsp90 does not interact with EBNA1 directly, a bridge protein may be involved in this process.",hsp-viral_interactions
+Hsp90 enhances the affinity of core protein dimers for capsid formation and prevents capsid dissociation.,hsp-viral_interactions
+"Hsp90 inhibitor, 17-AAG, reduces the L protein level through promoting degradation via the C terminus of Hsp70-interacting protein (CHIP) -mediated proteasomal pathway.",hsp-viral_interactions
+Hsp90 inhibitors effectively block the translocation of viral DNA polymerase.,hsp-viral_interactions
+"Hsp90 inhibitors, AT13387 and BIIB021, potently inhibit cell growth and induce apoptosis by impeding LMP1 function through activating its downstream signaling pathways described above.",hsp-viral_interactions
+Hsp90 is also found to regulate the location of virus DNA polymerase in virus-infected cells.’,hsp-viral_interactions
+"Hsp90 is critical for the RT activity.137,140,141 Secondly, Stahl et al.’",hsp-viral_interactions
+Hsp90 is important for virus gene expression both at the transcription and translation levels.’,hsp-viral_interactions
+"Hsp90 modulates the maturation of HCV nonstructural protein 2/3 (NS2/3) kinase.123 HCV NS2/3 is cleaved into two separate proteins right after translation, a key step of NS2/3 protein maturation.’",hsp-viral_interactions
+Hsp90 participates in the HTLV-1-induced cellular transformation.,hsp-viral_interactions
+Hsp90 seems positively promoting cell growth in EBV-positive nasopharyngeal carcinoma cells and EBV-infected T and NK cells.,hsp-viral_interactions
+"Hsp90 strictly regulates the proper folding of newly synthesized NS2/3 protein.123 Hsp90 and its co-chaperone p23 form a complex to assist the proper folding of capsid precursor polyprotein P1 of poliovirus, rhinovirus, and coxsackievirus;124 while the inhibitor GA reduces the maturation of P1, leading to immature P1 degradation in proteasome.124 During the virion assembly, Hsp90 interacts with capsid VP1 protein of noroviruses and the termini of the murine norovirus 1 genome.124,125 This interaction not only stabilizes VP1, but ensures the viral genome to be encapsulated into capsids as well.124 Hsp90 interacts with and stabilizes influenza neuraminidase (NA), a major surface glycoprotein involving in virion release.126 More importantly, it emphasizes the Hsp90-NA complex formation on promoting cell survival, leading to more virus production.126",hsp-viral_interactions
+"If Hsp70 and PB2/PB1 polymerases are retained in the cytosol, the polymerase activity reduces dramatically.",hsp-viral_interactions
+IL-10 is also called cytokine synthesis inhibitory factor (CSIF) displaying anti-inflammatory properties.,immunology
+"In addition, Hsp70 is also co-purified with L polymerase in insect cells.",hsp-viral_interactions
+"In RSV-infected cells, Hsp70 redistributes into lipid-raft membranes and colocalizes with virus N protein and lipid raft marker GM1.",hsp-viral_interactions
+"In some cases, HSP70 family proteins directly interact with viral polymerase to enhance viral replication.",hsp-viral_interactions
+"In terms of Ebola virus (EBOV) replication, the mechanism of Hsp70 involved is much more complicated.",hsp-viral_interactions
+"In the acute infection stage, Hsp90 is induced to express itself in the cell surface of EBV-infected B cells.",hsp-viral_interactions
+"In the case of canine distemper virus (CDV) infection, the increased Hsp70 results in an elevated expression of light nucleocapsid (NC-L) variant, which displays polymerase activity.",hsp-viral_interactions
+"In the case of coxsackievirus B3 (CVA B3) infection, Hsp70 is upregulated to enhance the initiation and elongation of viral translation.",hsp-viral_interactions
+"In the case of HCV infection, ROS production is regarded as the major contributor of HCC although it also promotes cell apoptosis.",hsp-viral_interactions
+"In the case of JEV infection, Hsp60 facilitates virus-induced inflammation by promoting IL-1β production via increasing NLRP3 inflammasome activity and NFκB phosphorylation.",hsp-viral_interactions
+"In the complex, P1 is mainly newly synthesized and has a longer half-life than that of total P1.",virology
+"In the elongation step, Hsp70 activates the Akt-mammalian target of rapamycin complex 1 (mTORC1) signal cascade, leading to activation of EEF2 via kinase p70S6K- and Cdc2-mediated phosphorylation and inactivation of EEF2 kinase (EF2K).",hsp-viral_interactions
+"In the Hsp40 chaperone part, we would discuss more details about the regulation of PKR signaling by Influenza virus.",hsp-viral_interactions
+"In the translation initiation step, Hsp70 upregulates IRES-acting factor lupus autoantigen protein expression and activates eIF4E binding protein 1 (EIF4EBP1), a cap-dependent translation suppressor.",hsp-viral_interactions
+"In this process, Hsp70 binds cotranslationally to the region downstream the N-terminal α-helical coiled-coil, which presumably helps to inhibit unwanted interaction and misfolding.",hsp-viral_interactions
+"In uninfected and unstressed cells, p58IPK activity is clogged with Hdj1 by forming a complex.",virology
+Influenza virus downregulates PKR in an Hsp70-dependent way.,hsp-viral_interactions
+Inhibiting EBNA1 expression strongly suppresses both EBV-induced primary B cell transformation in vitro and lymphoproliferative disease in SCID mice in vivo.,viral_details
+It has a strong ability to expand gamma delta T cells (γδ T cells) population.,hsp-function
+It has been demonstrated that Hsp90 inhibitors block the translation of EBNA1; and mutation of Gly-Ala repeat domain abrogates the inhibition of EBNA1 translation.,hsp-viral_interactions
+It influences both the first and the second line of immune defence.,immunology
+Knockdown of Hsp72 results in accumulated ubiquitinated P protein as well as increased cell apoptosis.,hsp-viral_interactions
+"Many other innate immunity-related signaling pathways would then be activated, for example, phosphorylation of NF-κB via TAK1/IKK activation.",immunology
+"MAPKs p38, JNK, and ERK pathway are also activated, then subsequently activate CREB and AP-1 transcription factors.",immunology
+"More detailed research shows that at least one of two RT fragments, residues 1–199 of terminal protein (TP) domain and 680–842 of Rnase H (RH), is necessary for Hsp60 binding.",hsp-viral_interactions
+Numerous studies show that HBV employs active means to escape innate immune response and induce immunosuppression.,virology
+Only a few papers reported the function of Hsp90 in DNA virus assembly.,hsp-research_overview
+"Positive single-stranded RNA viruses (e.g., SARS-CoV-2, HCV, ZIKA, EV-A71, etc) use the internal ribosome entry site (IRES) to initiate the translation of their own proteins but inhibit the host cellular cap-dependent translation through regulation or cleavage of eukaryotic translation initiation /elongation factors (EIFs/EEFs).",virology
+Several HSPs function as oncoproteins to promote cellular transformation.,hsp-function
+Silencing of Hsp60 results in an increase of IFN-α production and decrease of virus reproduction in macrophages.,hsp-viral_interactions
+Similar result is reported in the case of RSV infection.,hsp-viral_interactions
+"Similar to HCV infection, HBV infection also induces strong apoptosis which is thought mainly contributed by HBx protein.",hsp-viral_interactions
+"Similarly, during influenza infection, Hsp70 interacts with PB2 or PB1 monomers and PB2/PB1 heterodimer in HeLa and HEK293T cells, and sequentially translocates into the nucleus with PB2 monomers or PB2/PB1 heterodimers.",hsp-viral_interactions
+"Since Hsp90 can work as an immune sensor and assist antigen presentation, it may function in the same way in EBV infection.",hsp-function
+Some RNA viruses also replicate in the nucleus such as CDV and influenza virus.,virology
+"Some viruses do not have IRES sequence, and virus replication produces plenty of dsRNAs which trigger the activation of protein kinase-RNA-activated (PKR)- EIF2a signaling cascade that shuts down global translation in cells and releases stresses.",virology
+Studies show that overexpression of Hsp60 facilitates HBx-induced apoptosis.,hsp-viral_interactions
+Study shows that the N-terminal domain of HCV core protein can induce ROS production by interacting with Hsp60 and inhibiting the normal function of Hsp60 in releasing protein stress.,hsp-viral_interactions
+"Taking hepatitis B virus (HBV) as an example, the reverse transcription is an essential step to generate viral genomic DNA in type VII viruses.’",viral_details
+The activated Hsp90 is needed for HBV assembly.,hsp-viral_interactions
+"The beginning of reverse transcription is the recognition and interaction of RT with an RNA signal (the packaging signal, ε) on the pre-genomic RNA.134 It was identified that Hsp90 is an essential host factor that facilitates Duck hepatitis B virus (DHBV) replication by interacting with viral RT.135 Treating with Hsp90 inhibitors or monoclonal antibodies (mAb) sufficiently block RT-ε binding.135 Hu et al.’",hsp-viral_interactions
+"The C-terminal region of Hsp72 interacts with the N-terminal region of P protein, which is an essential component of the RdRp complex.",hsp-viral_interactions
+The EBNA1 translation is strictly regulated by Hsp90 through the Gly-Ala repeat domain to keep EBNA1 at a relatively low level.,hsp-viral_interactions
+The genome-wide RNA interference (RNAi) screen identifies the interaction of Hsp60 with PB2 of influenza virus.,hsp-viral_interactions
+The Hsp70-P1 complex is regarded as an assembly intermediate of picornaviruses.,hsp-viral_interactions
+The integrase catalyzes the integration of HIV-1 proviral DNA in the host genome.,virology
+"The interaction of HBx and Hsp60 has been observed and confirmed by different methods including affinity purification, mass spectrometry and co-immunoprecipitation.",hsp-viral_interactions
+"The latent membrane protein 1 (LMP1) is regarded as an oncoprotein that promotes tumor metastasis and invasiveness through inducing the expression of matrix metalloproteinase 9 (MMP9), mimicking the tumor necrosis factor receptor (TNFR) superfamily proteins, and activating the NF-kB, MAPK, PI3K/Akt and JAK/STAT signal transduction pathways.",viral_details
+The majority of studies show that Hsp60 works as an activator of immune response.,immunology
+"The N protein is responsible for interacting with the viral RNA, and P protein interacts with N protein and with the RdRp L to form the nucleocapsid.",virology
+The N protein recognizes and binds to the viral RNA genome to establish a steady N protein–RNA complex structure (RNP).,virology
+"The nuclear transport of many viruses depends on the microtubules (MT) and MT-dependent molecular motor dynein/dynactin complex.127 Virus strictly modulates the status of tubulin acetylation, a critical event for the transportation of viral components.128,129,130 In HSV-infected cells, Hsp90 co-localizes with acetylated tubulin and capsid protein VP5.131 Hsp90 inhibitors disrupt its binding to the acetylated tubulin, thereby inhibiting the nuclear transport of HSV capsid protein.131 During HBV infection, the glucocorticoid receptor shows a strong possibility to enhance the nuclear import of HBV.132 Hsp90 facilitates glucocorticoid receptor redistribution from the cytoplasm to the nucleus.’",hsp-viral_interactions
+The other members of Hsp70s also regulate VRC formation.,hsp-viral_interactions
+"The previous sections, we have discussed that Hsp90 is important for RT-ε RNA complex formation in HBV infection.",hsp-viral_interactions
+"The replication of most DNA viruses occurs in the nucleus, where virions form in replication centers.’",viral_details
+The role of Hsp60 in the DNA/RNA virus infection process has been widely studied; only limited knowledge has been obtained in retrovirus infection.,hsp-viral_interactions
+The shuttling of Hsp70 between nuclear and cytoplasmic compartments underlies the modulatory effect of Hsp70 on influenza virus replication.,hsp-viral_interactions
+The TP domain is also responsible for the binding of Hsp90 in the RT-ε RNA priming step.,hsp-viral_interactions
+The translation of EBV nuclear antigen 1 (EBNA1) protein is also manipulated by Hsp90.,hsp-viral_interactions
+"The γδ T cells have potent antiviral ability in the acute phage when a host is infected by HIV, influenza, Sendai, coxsackie, vaccinia, VSV, or HSV-1.",immune_system
+The γδ T cells work as both early sentinels of the immune system by providing immediate protection and as bridging elements between innate immunity and adaptive immunity.,immune_system
+Then the mitochondrial PB2 interacts with and modulates the activity of mitochondrial antiviral signaling protein (MAVS) to suppress interferon β (IFNβ) production.,hsp-viral_interactions
+"Therefore, Hsc70 may serve as an antiviral target against EV-A71 and HCV infections.",antiviral_research
+"Therefore, Hsp60 determines the effect of PB2 on both mitochondrial stability and the level of IFN-β production.",hsp-viral_interactions
+"Therefore, Hsp90 and Hsp70 together regulate the stability of L protein and ensure the proper virus replication complex (VRC) formation.",hsp-viral_interactions
+"Therefore, more detailed studies are needed to understand the functions of Hsp70 in modulating RSV gene expression and replication.",hsp-research
+"Therefore, nuclear transportation becomes a critical step for their replication.",virology
+"Therefore, the proper location of viral proteins is quite important for virus replication.’",viral_details
+"These findings suggest that the activation of p58IPK appears to be a sequel to the Hsp70-mediated release of Hdj1 from the p58IPK-Hdj1 complex, which allows the monomeric p58IPK to inhibit PKR.",hsp-viral_interactions
+"They proposed that Hsp90/Hop complex affect the quantity, not the quality of RT activity.’",hsp-function
+"This complex further interacts with viral proteins VP30, VP35 and RdRp L, to finally form VRC.",virology
+"To circumvent the PKR-mediated block to viral proliferation, influenza A virus induces the cellular tetratricopeptide repeat (TPR)","domains containing JDP protein, p58IPK."
+"To yield more viruses, Rotavirus infection increases the Hsp60 phosphorylation at Tyr228 by activated Src kinase that leads to the ubiquitin-mediated proteasomal degradation.",hsp-viral_interactions
+Trimerization of the C-terminal domain of the sigma 1 protein is coupled to the ATP-dependent release of Hsp70 from the ribosome.,hsp-viral_interactions
+"Under certain conditions, Hsp90 exhibits antiviral activities by promoting cell immunity.",hsp-function
+"Upon CDV infection, Hsp70 is shown a strong contribution to viral replication by interacting with and promoting the translocation of the nucleocapsid particles from the cytosol to nucleus.",hsp-viral_interactions
+"Upon RT activation, Hsp60 immediately dissociates from the Hsp60/RT complex without being encapsidated into viral nucleocapsid.",hsp-viral_interactions
+"Virus gene expression: Besides viral entry and replication, Hsp70 also contributes to viral protein translation.",hsp-viral_interactions
+Viruses use different mechanisms to modulate apoptosis.,virology
+We have discussed how Hsp90 is hijacked by DNA viruses to promote viral replication above.,hsp-research_overview
+"While another RNA virus, Rotavirus SA11, tries its best to delay the early apoptosis through modulating Hsp60 stability.",hsp-viral_interactions
+"While the N-terminal segment of the sigma 1 protein folds and trimerizes cotranslationally in an Hsp70-independent manner, a post-translational fold of the C-terminal globular domain is dependent on Hsp70.",hsp-viral_interactions
