@@ -1,2 +1,28 @@
 # G4HSP-AI
 2223-KEN4153 Maastricht University Period 5 Spring 2023
+
+CC permission
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">G4-HSP XAI</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="g4HSP.bio" property="cc:attributionName" rel="cc:attributionURL">Farida Hanna Campbell</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Cartesian1671/G4HSP-AI" rel="dct:source">https://github.com/Cartesian1671/G4HSP-AI</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="fhcampbell@7provincien.com" rel="cc:morePermissions">fhcampbell@7provincien.com</a>.
+
+
+FAIR
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>G4-HSP XAI</dc:title>
+<dc:creator>Farida Hanna Campbell</dc:creator>
+<dc:subject>virus Gquadruplex interaction with Human Cellular Stress Proteins  </dc:subject>
+<dc:description>Modular development of an XAI algorithm based on
+Labeled gquadruplex interaction with stress proteins over the infectious lifecycle</dc:description>
+<dc:publisher>Farida Hanna Campbell</dc:publisher>
+<dc:contributor>Dr. Issam Abderrahmane (Tutorial Assistant) and Dr. Jan Scholtes (Instructor), </dc:contributor>
+<dc:date>17 May 2023</dc:date>
+<dc:type>Topic: LDA, LSA, and BerTopic  ML: (linear) SVM </dc:type>
+<dc:format>Python</dc:format>
+<dc:source>mixed annotated text</dc:source>
+<dc:language>python</dc:language>
+<dc:rights>Creative Commons Attribution 4.0 International License.</dc:rights>
+
+</metadata>
