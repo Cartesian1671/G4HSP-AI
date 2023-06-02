@@ -2,11 +2,16 @@
 2223-KEN4153 Maastricht University Period 5 Spring 2023
 
 Each section is a progression from the experience of the previous.
-There is overlap in terms of using previous scripts with more data, for the purpose of exploring accuracy, precision, recall and TP/TF ratios.
-Section 5 is the FAIR metadata  and is the XML on the G4HSP-AI directory rather than  a script module.
+There is overlap in  scripts, based on the need to nromalize new and more data,in order to enhance accuracy, precision, recall and TP/TF ratios through the various goal topics, G4 and HSP interaction.
 
-Please consider this as "exploration" .
-There is a new and final update that will include an interactive knowledge graph with SparQL and an interactive AI for searching virus G4-HSP interaction. This will be released as  new journal publication. 
+Section 5 is the FAIR metadata  and is the XML on the G4HSP-AI directory rather than  a script module.
+Secction 6 is the arrival of a working SVM based on NLTK (but it was compared with SPACY.  SpaCY was removed as it does not qualify for academic research.)
+
+Please consider this repository as the host of results for research "exploration" .
+Results are visible in each cell of the scripts.
+
+
+Watch for  final versioining:  this will include an interactive knowledge graph with SparQL and an interactive AI for searching virus G4-HSP interaction that can be used in medical pathogenomic research.  It will be announced in the  peer-reviewed journal publication. 
 
 CC permission
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">G4-HSP XAI</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="g4HSP.bio" property="cc:attributionName" rel="cc:attributionURL">Farida Hanna Campbell</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Cartesian1671/G4HSP-AI" rel="dct:source">https://github.com/Cartesian1671/G4HSP-AI</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="fhcampbell@7provincien.com" rel="cc:morePermissions">fhcampbell@7provincien.com</a>.
