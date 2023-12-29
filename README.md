@@ -1,5 +1,5 @@
 # G4HSP-AI
-2223-KEN4153 Maastricht University Period 5 Spring 2023
+2223-KEN4153 Maastricht University 2023
 
 Each section is a progression from the experience of the previous.
 There is overlap in  scripts, based on the need to nromalize new and more data,in order to enhance accuracy, precision, recall and TP/TF ratios through the various goal topics, G4 and HSP interaction.
