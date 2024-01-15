@@ -13,8 +13,7 @@ Results are visible in each cell of the scripts.
 
 Watch for  final versioining:  this will include an interactive knowledge graph with SparQL and an interactive AI for searching virus G4-HSP interaction that can be used in medical pathogenomic research.  It will be announced in the  peer-reviewed journal publication. 
 
-CC permission
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">G4-HSP XAI</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="g4HSP.bio" property="cc:attributionName" rel="cc:attributionURL">Farida Hanna Campbell</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Cartesian1671/G4HSP-AI" rel="dct:source">https://github.com/Cartesian1671/G4HSP-AI</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="fhcampbell@7provincien.com" rel="cc:morePermissions">fhcampbell@7provincien.com</a>.
+=
 
 
 FAIR
